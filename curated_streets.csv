@@ -1125,12 +1125,13 @@ Ulica 1. maja - Via 1. maggio,Ulica 1. maja,1,Via 1. maggio,,,
 Ulica 1. svibnja - Via Primo Maggio,Ulica 1. svibnja,3,Via Primo Maggio,,,
 Ulica 1. svibnja - Via Primo maggio,Ulica 1. svibnja,1,Via Primo maggio,,,
 Ulica 154. brigade Hrvatske vojske - Via 154ª Brigata dell'Esercito croato,Ulica 154. brigade Hrvatske vojske,1,Via 154. brigata dell' esercito Croato,,,
-Ulica 154. brigade HV - Via della 154a brigata dell'EC,Ulica 154. brigade HV,1,Via della 154a brigata dell'EC,,,
+Ulica 154. brigade HV - Via della 154a brigata dell'EC,Ulica 154. brigade HV,1,Via della 154ª brigata dell'EC,,,
+Ul. 154. brigade HV-a - Via della 154ª brigata dell'EC,Ulica 154. brigade HV-a,,Via della 154ª brigata dell'EC,,,
 Ulica 16. januara - Via 16. gennaio,Ulica 16. januara,1,Via 16. gennaio,,,
 Ulica 43. istarske divizije - Via 43. Divisione Istriana,Ulica 43. istarske divizije,1,Via 43. Divisione Istriana,,,
 Ulica 43. istarske divizije - Via 43ª Divisione Istriana,Ulica 43. istarske divizije,1,Via 43ª Divisione Istriana,,,
-Ulica 43. istarske divizije - Via della 43. a divisione istriana,Ulica 43. istarske divizije,1,Via della 43. a divisione istriana,,,
-Ulica 43. istarske divizije - Via della 43a Divisione istriana,Ulica 43. istarske divizije,1,Via della 43a Divisione istriana,,,
+Ulica 43. istarske divizije - Via della 43. a divisione istriana,Ulica 43. istarske divizije,1,Via della 43ª divisione istriana,,,
+Ulica 43. istarske divizije - Via della 43a Divisione istriana,Ulica 43. istarske divizije,1,Via della 43ª Divisione istriana,,,
 Ulica 43. istarske divizije - Via della XLIII divisione istriana,Ulica 43. istarske divizije,1,Via della XLIII divisione istriana,,,
 Ulica 6. svibnja - Via 6 Maggio,Ulica 6. svibnja,2,Via 6 Maggio,,,
 Ulica 8. ožujka - Via 8 Marzo,Ulica 8. ožujka,1,Via 8 Marzo,,,
@@ -2285,3 +2286,364 @@ Andrije Pirnata,Ulica Andrije Pirnata,,,,,
 Andrije Šermana,Ulica Andrije Šermana,,,,,
 Andrije Štampara,Ulica Andrije Štampara,,,,,
 Andrije Štangera,Ulica Andrije Štangera,,,,,
+Glavna,Glavna ulica,,,,,
+Osječka,Osječka ulica,,,,,
+Dubrovačka,Dubrovačka ulica,,,,,
+Savska,Savska ulica,,,,,
+Josipa Juraja Strossmayera,Ulica Josipa Juraja Strossmayera,,,,,Q434257
+Antuna Gustava Matoša,Ulica Antuna Gustava Matoša,,,,,Q610015
+Vinkovačka,Vinkovačka ulica,,,,,
+V. Nazora,Ulica Vladimira Nazora,,,,,
+Čakovečka,Čakovečka ulica,,,,,
+Ivana Meštrovića,Ulica Ivana Meštrovića,,,,,
+Ulica Bana Josipa Jelačića,Ulica bana Josipa Jelačića,,,,,
+Pavla Radića,Ulica Pavla Radića,,,,,
+Marka Marulića,Ulica Marka Marulića,,,,,
+Augusta Cesarca,Ulica Augusta Cesarca,,,,,
+Zrinska,Zrinska ulica,,,,,
+Omladinska,Omladinska ulica,,,,,
+Gajeva,Gajeva ulica,,,,,
+Požeška,Požeška ulica,,,,,
+Ulica Petra Krešimira IV,Ulica Petra Krešimira IV.,,,,,
+Kralja Petra Krešimira IV,Ulica kralja Petra Krešimira IV.,,,,,
+Hercegovačka,Hercegovačka ulica,,,,,
+Žrtava fašizma,Ulica žrtava fašizma,,,,,
+Slavonska,Slavonska ulica,,,,,
+Baruna Trenka,Ulica baruna Trenka,,,,,
+Mostarska,Mostarska ulica,,,,,
+Domovinskog rata,Ulica Domovinskog rata,,,,,
+Koprivnička,Koprivnička ulica,,,,,
+Matice hrvatske,Ulica Matice hrvatske,,,,,
+Krste Frankopana,Ulica Krste Frankopana,,,,,
+Ul. 1.,Ulica 1,,,,,
+Ul. 1. dalmatinskog sabora,Ulica 1. dalmatinskog sabora,,,,,
+Ul. 1. Gardijska Brigada,Ulica 1. gardijske brigade,,,,,
+Ul. 1. svibnja,Ulica 1. svibnja,,,,,
+Ul. 112. brigade,Ulica 112. brigade,,,,,
+Ul. 113. šib. brigade HV,Ulica 113. šibenske brigade HV,,,,,
+Ul. 2.,Ulica 2,,,,,
+Ul. 27. Februara,Ulica 27. februara,,,,,
+Ul. 3.,Ulica 3,,,,,
+Ul. 4.,Ulica 4,,,,,
+Ul. 55. samostalnog bataljuna HV-a,Ulica 55. samostalnog bataljuna HV-a,,,,,
+Ul. 8. marta,Ulica 8. marta,,,,,
+Ul. 8. udarne dalmat. brigade,Ulica 8. udarne dalmatinske brigade,,,,,
+Ul. A. Branka Šimića,Ulica Antuna Branka Šimića,,,,,
+Ul. A. G. Matoša,Ulica Antuna Gustava Matoša,,,,,
+Ul. admirala Jakova Šubića od Cezana,Ulica admirala Jakova Šubića od Cezana,,,,,
+Ul. Adolfa Waldingera,Ulica Adolfa Waldingera,,,,,
+Ul. Alojzija Stepinca,Ulica Alojzija Stepinca,,,,,
+Ul. Andrije Hebranga,Ulica Andrije Hebranga,,,,,
+Ul. Andrije K. Miošića,Ulica Andrije Kačića Miošića,,,,,
+Ul. Ante Kovačića,Ulica Ante Kovačića,,,,,
+Ul. Ante Pedića,Ulica Ante Pedića,,,,,
+Ul. Ante Starčevića,Ulica Ante Starčevića,,,,,
+Ul. Antona Glasnovića,Ulica Antona Glasnovića,,,,,
+Ul. Antuna Augustinčića,Ulica Antuna Augustinčića,,,,,
+Ul. Antuna Branka Šimića,Ulica Antuna Branka Šimića,,,,,
+Ul. Antuna Gustava Matoša,Ulica Antuna Gustava Matoša,,,,,
+Ul. Antuna Kovačića,Ulica Antuna Kovačića,,,,,
+Ul. Antuna Mihanovića,Ulica Antuna Mihanovića,,,,,
+Ul. Augusta Cesarca,Ulica Augusta Cesarca,,,,,
+Ul. Augusta Šenoe,Ulica Augusta Šenoe,,,,,
+Ul. b. Ćirila i Metoda,Ulica braće Ćirila i Metoda,,,,,
+Ul. b. Josipa Jelačića,Ulica bana Josipa Jelačića,,,,,
+Ul. bana Ivana Mažuranića,Ulica bana Ivana Mažuranića,,,,,
+Ul. bana J. Jelačića,Ulica bana Josipa Jelačića,,,,,
+Ul. bana Jelačića,Ulica bana Jelačića,,,,,
+Ul. Bana Jelačića,Ulica bana Jelačića,,,,,
+Ul. bana Josipa Jelačić,Ulica bana Josipa Jelačića,,,,,
+Ul. bana Josipa Jelačića,Ulica bana Josipa Jelačića,,,,,
+Ul. Barice Labaš,Ulica Barice Labaš,,,,,
+Ul. Bartola Kašića,Ulica Bartola Kašića,,,,,
+Ul. Bartula Kašića,Ulica Bartula Kašića,,,,,
+Ul. baruna Vjenceslava Lilienberga,Ulica baruna Vjenceslava Lilienberga,,,,,
+Ul. Belote Dobronića,Ulica Belote Dobronića,,,,,
+Ul. Benedikta Mišolića,Ulica Benedikta Mišolića,,,,,
+Ul. Bernarda Vukasa,Ulica Bernarda Vukasa,,,,,
+Ul. Bilogorska,Ulica Bilogorska,,,,,
+Ul. biskupa G. Ninskog,Ulica biskupa Grgura Ninskog,,,,,
+Ul. biskupa Mihe Pušića,Ulica biskupa Mihe Pušića,,,,,
+Ul. Biskupa Teodozija,Ulica biskupa Teodozija,,,,,
+Ul. blaženog Alojzija Stepinca,Ulica blaženog Alojzija Stepinca,,,,,
+Ul. Borisa Čuline,Ulica Borisa Čuline,,,,,
+Ul. braće Andrijića,Ulica braće Andrijića,,,,,
+Ul. braće Fabijanića,Ulica braće Fabijanića,,,,,
+Ul. Braće Radić,Ulica braće Radić,,,,,
+Ul. braće Radića,Ulica braće Radića,,,,,
+Ul. Branka Klapana,Ulica Branka Klapana,,,,,
+Ul. Bribirskih knezova,Ulica Bribirskih knezova,,,,,
+Ul. Brune Bušića,Ulica Brune Bušića,,,,,
+Ul. Cesarićeva,Cesarićeva ulica,,,,,
+Ul. Čista Mala,Čista Mala,,,,,
+Ul. Crvena luka,Ulica Crvena luka,,,,,
+Ul. Dalmatinska,Dalmatinska ulica,,,,,
+Ul. Davora Zubčića,Ulica Davora Zubčića,,,,,
+Ul. Dinarska,Dinarska ulica,,,,,
+Ul. Dinka Šimunovića,Ulica Dinka Šimunovića,,,,,
+Ul. Dmitra Zvonimira,Ulica Dmitra Zvonimira,,,,,
+Ul. Dobriše Cesarića,Ulica Dobriše Cesarića,,,,,
+Ul. Doljani,Doljani,,,,,
+Ul. Domovinske zahvalnosti,Ulica Domovinske zahvalnosti,,,,,
+Ul. don Ante J. Police,Ulica don Ante Juričeva Police,,,,,
+Ul. Don Ante Matacina,Ulica don Ante Matacina,,,,,
+Ul. don Ante Šoše,Ulica don Ante Šoše,,,,,
+Ul. don Filipa Mandarića,Ulica don Filipa Mandarića,,,,,
+Ul. don Ivana Zorice,Ulica don Ivana Zorice,,,,,
+Ul. don Luke Jelića,Ulica don Luke Jelića,,,,,
+Ul. don M. Klarića,Ulica don Mate Klarića,,,,,
+Ul. don Pave Zankija,Ulica don Pave Zankija,,,,,
+Ul. Don Pave Zankija,Ulica don Pave Zankija,,,,,
+Ul. don Rade Rilova,Ulica don Rade Rilova,,,,,
+Ul. don Stjepana Matkova,Ulica don Stjepana Matkova,,,,,
+Ul. don Stjepana Surića,Ulica don Stjepana Surića,,,,,
+Ul. don. Kaže Perkovića,Ulica don Kaže Perkovića,,,,,
+Ul. Donata Fabijanića,Ulica Donata Fabijanića,,,,,
+Ul. Dore Pejačević,Ulica Dore Pejačević,,,,,
+Ul. dr. A. Starčevića,Ulica dr. Ante Starčevića,,,,,
+Ul. dr. Andrije Hebranga,Ulica dr. Andrije Hebranga,,,,,
+Ul. dr. Ante Starčevića,Ulica dr. Ante Starčevića,,,,,
+Ul. dr. Blaža Jurišića,Ulica dr. Blaža Jurišića,,,,,
+Ul. Dr. Franje Tuđmana,Ulica dr. Franje Tuđmana,,,,,
+Ul. dr. Snjegovoja,Ulica dr. Snjegovoja,,,,,
+Ul. dr. Vlatka Mačeka,Ulica dr. Vlatka Mačeka,,,,,
+Ul. dr. Z. Benčevića,Ulica dr. Zvonimira Benčevića,,,,,
+Ul. Drage Kolarića,Ulica Drage Kolarića,,,,,
+Ul. Dragutina Boranića,Ulica Dragutina Boranića,,,,,
+Ul. Dragutina Domjanića,Ulica Dragutina Domjanića,,,,,
+Ul. Dragutina Tadijanovića,Ulica Dragutina Tadijanovića,,,,,
+Ul. Dravska,Dravska ulica,,,,,
+Ul. Dubrovačka,Dubrovačka ulica,,,,,
+Ul. Dudić,Ulica Dudić,,,,,
+Ul. Dujasa Babića,Ulica Dujasa Babića,,,,,
+Ul. Eugena Kumičića,Ulica Eugena Kumičića,,,,,
+Ul. f. A. Kačića - Miošića,Ulica fra Andrije Kačića Miošića,,,,,
+Ul. Ferde Livadića,Ulica Ferde Livadića,,,,,
+Ul. fra A. Kambera,Ulica fra Anselma Kambera,,,,,
+Ul. fra Ivana Markov.,Ulica fra Ivana Markovića,,,,,
+Ul. fra Lina Pedišića,Ulica fra Lina Pedišića,,,,,
+Ul. Fra Serafina Raića,Ulica fra Serafina Raića,,,,,
+Ul. fra Tome Babića,Ulica fra Tome Babića,,,,,
+Ul. Frane Kršinića,Ulica Frane Kršinića,,,,,
+Ul. Franje Račkog,Ulica Franje Račkog,,,,,
+Ul. gardijskih brigada,Ulica gardijskih brigada,,,,,
+Ul. Glama,Ulica Glama,,,,,
+Ul. Gojka Šuška,Ulica Gojka Šuška,,,,,
+Ul. Gospe Karmelske,Ulica Gospe Karmelske,,,,,
+Ul. Gospe Letničke,Ulica Gospe Letničke,,,,,
+Ul. Gospe od mira,Ulica Gospe od mira,,,,,
+Ul. Gospićka,Gospićka ulica,,,,,
+Ul. Grabarska,Grabarska ulica,,,,,
+Ul. Grada Otočca,Ulica grada Otočca,,,,,
+Ul. Gradišćanskih Hrvata,Ulica gradišćanskih Hrvata,,,,,
+Ul. Greda,Ulica Greda,,,,,
+Ul. Grgura Ninskog,Ulica Grgura Ninskog,,,,,
+Ul. Grubišnog Polja,Ulica Grubišnog Polja,,,,,
+Ul. Gustava Krkleca,Ulica Gustava Krkleca,,,,,
+Ul. Hanibala Lucića,Ulica Hanibala Lucića,,,,,
+Ul. Hrv. mladeži,Ulica Hrvatske mladeži,,,,,
+Ul. hrvatskih branitelja,Ulica hrvatskih branitelja,,,,,
+Ul. Hrvatskih redarstvenika,Ulica hrvatskih redarstvenika,,,,,
+Ul. Hrvatskih velikana,Ulica hrvatskih velikana,,,,,
+Ul. Hrvatskih vladara,Ulica hrvatskih vladara,,,,,
+Ul. Hrvatskog Sabora,Ulica Hrvatskog sabora,,,,,
+Ul. Hrvatskog sabora,Ulica Hrvatskog sabora,,,,,
+Ul. I. Brlić Mažuranić,Ulica Ivane Brlić Mažuranić,,,,,
+Ul. I. G. Kovačića,Ulica Ivana Gorana Kovačića,,,,,
+Ul. II - put kroz selo,Ulica II,,,,Put kroz selo,
+Ul. III - put škole,Ulica III,,,,Put škole,
+Ul. Ilirskog preporoda,Ulica Ilirskog preporoda,,,,,
+Ul. IV - put groblja,Ulica IV,,,,Put Groblja,
+Ul. IV brigade,Ulica IV. brigade,,,,,
+Ul. Ivana Generalića,Ulica Ivana Generalića,,,,,
+Ul. Ivana Gundulića,Ulica Ivana Gundulića,,,,,
+Ul. Ivana Mažuranića,Ulica Ivana Mažuranića,,,,,
+Ul. Ivana Meštrovića,Ulica Ivana Meštrovića,,,,,
+Ul. Ivana Mirkovića,Ulica Ivana Mirkovića,,,,,
+Ul. Ivana Mršića,Ulica Ivana Mršića,,,,,
+Ul. Ivana Pavla II,Ulica Ivana Pavla II,,,,,
+Ul. Ivana pl. Zajca,Ulica Ivana pl. Zajca,,,,,
+Ul. Ivana Raosa,Ulica Ivana Raosa,,,,,
+Ul. Ivane Brlić Mažuranić,Ulica Ivane Brlić Mažuranić,,,,,
+Ul. Ivaniša Nelipića,Ulica Ivaniša Nelipića,,,,,
+Ul. Ive Andrića,Ulica Ive Andrića,,,,,
+Ul. Ivice Baraba,Ulica Ivice Baraba,,,,,
+Ul. J. Šprljana Akabe,Ulica Josipa Šprljana Akabe,,,,,
+Ul. Jakova Gotovca,Ulica Jakova Gotovca,,,,,
+Ul. Jarak,Ulica Jarak,,,,,
+Ul. Jergana,Ulica Jergana,,,,,
+Ul. Jose Bakić,Ulica Jose Bakić,,,,,
+Ul. Josipa Jurja Strossmayera,Ulica Josipa Jurja Strossmayera,,,,,
+Ul. Josipa Kozarca,Ulica Josipa Kozarca,,,,,
+Ul. Josipa Kraša,Ulica Josipa Kraša,,,,,
+Ul. Josipa Pančića,Ulica Josipa Pančića,,,,,
+Ul. Josipa Runjanina,Ulica Josipa Runjanina,,,,,
+Ul. Jure Crljenka,Ulica Jure Crljenka,,,,,
+Ul. Jure Kaštelana,Ulica Jure Kaštelana,,,,,
+Ul. Jurgena Smidta,Ulica Jurgena Smidta,,,,,
+Ul. Jurja Benzije,Ulica Jurja Benzije,,,,,
+Ul. k. P. Krešimira IV,Ulica kralja Petra Krešimira IV.,,,,,
+Ul. k. Šubića Bribirskih,Ulica knezova Šubića Bribirskih,,,,,
+Ul. kar. dr. A. Stepinca,Ulica kardinala Alojzija Stepinca,,,,,
+Ul. kardinala Alojzija Stepinca,Ulica kardinala Alojzija Stepinca,,,,,
+Ul. kardinala Kuharića,Ulica kardinala Kuharića,,,,,
+Ul. kneza Borne,Ulica kneza Borne,,,,,
+Ul. kneza Branimira,Ulica kneza Branimira,,,,,
+Ul. kneza Domagoja,Ulica kneza Domagoja,,,,,
+Ul. kneza Hrvoja Hrvatinića,Ulica kneza Hrvoja Hrvatinića,,,,,
+Ul. kneza Mislava,Ulica kneza Mislava,,,,,
+Ul. kneza Trpimira,Ulica kneza Trpimira,,,,,
+Ul. kneza Zdeslava,Ulica kneza Zdeslava,,,,,
+Ul. Knezova Bribirskih,Ulica knezova Bribirskih,,,,,
+Ul. komiških iseljenika,Ulica komiških iseljenika,,,,,
+Ul. kralja D. Zvonimira,Ulica kralja Dmitra Zvonimira,,,,,
+Ul. kralja Držislava,Ulica kralja Držislava,,,,,
+Ul. kralja Kolomana,Ulica kralja Kolomana,,,,,
+Ul. kralja P. Svačića,Ulica kralja Petra Svačića,,,,,
+Ul. kralja Petra Krešimira IV,Ulica kralja Petra Krešimira IV.,,,,,
+Ul. kralja Petra Svačića,Ulica kralja Petra Svačića,,,,,
+Ul. kralja Tomislava,Ulica kralja Tomislava,,,,,
+Ul. kralja Tvrtka,Ulica kralja Tvrtka,,,,,
+Ul. kralja Zvonimira,Ulica kralja Zvonimira,,,,,
+Ul. kraljice Jelene,Ulica kraljice Jelene,,,,,
+Ul. Kraljice Jelene,Ulica kraljice Jelene,,,,,
+Ul. Križnog puta
+Ul. Krste Frankopana
+Ul. Lavoslava Ružičke
+Ul. Ledinka
+Ul. Lile Pejačević
+Ul. Ljudevita Gaja
+Ul. Lovre Matačića
+Ul. Luke Botića
+Ul. Luke i Siniše Brkljače
+Ul. Lungo mare
+Ul. Mali Šandrovac
+Ul. Marije Jurić Zagorke
+Ul. Marina Držića
+Ul. Marina Getaldića
+Ul. Marka Laura Ruića
+Ul. Marka Marulića
+Ul. Marka Pejačevića
+Ul. Marka Pola
+Ul. Mate Lovraka
+Ul. Mate Parlova
+Ul. Matice hrvatske
+Ul. Matije Antuna Reljkovića
+Ul. Matije Ljubeka
+Ul. Mihovila Pavlinovića
+Ul. Milana Begovića
+Ul. Mile Budaka
+Ul. Mile Čulina
+Ul. Mile Gojsalić
+Ul. Milutina Cihlara Nehajeva
+Ul. Miroslava Kraljevića
+Ul. Miroslava Krleže
+Ul. Mišulinovac
+Ul. Mojmir
+Ul. Moravskih Toplica
+Ul. N. Šubića Zrinskog
+Ul. nar. h. Grge Jankesa
+Ul. Nikole Portade
+Ul. Nikole Šubića
+Ul. Nikole Šubića Zrinskog
+Ul. Nikole Tesle
+Ul. Nikole Turkalja
+Ul. Nikole Valentića
+Ul. Nikole Zrinskog
+Ul. Nikole Zrinskoga
+Ul. Norilj
+Ul. Orišje
+Ul. Otona Ivekovića
+Ul. P. Zoranića
+Ul. Pavla R. Vitezovića
+Ul. Pavla Štoosa
+Ul. Pešćine
+Ul. Petka
+Ul. Petra Grubonića
+Ul. Petra Hektorovića
+Ul. Petra Krešimira
+Ul. Petra Rumore
+Ul. Petra Zoranića
+Ul. Petra Zrinskog
+Ul. popova vlaka
+Ul. Pridraških iseljenika
+Ul. Pridraških urara
+Ul. Pridraškog kamena
+Ul. put Čulina
+Ul. put Klapana
+Ul. put kule
+Ul. put Lalića
+Ul. Put Primorja
+Ul. put Priske
+Ul. put Vrulje
+Ul. Ranka Baraba
+Ul. rijeke Čikole
+Ul. rijeke Jadro
+Ul. Rimski put
+Ul. Rudeka Sutlara
+Ul. Ruđera Boškovića
+Ul. Rudjera Boškovića
+Ul. S. S. Kranjčevića
+Ul. Sabunike I
+Ul. Sabunike II
+Ul. Sabunike III
+Ul. Sabunike IV
+Ul. Sabunike V
+Ul. Sabunike VI
+Ul. Sabunike VII
+Ul. satnika Ivana Pleića
+Ul. Sedme domobranske
+Ul. sestara Klarisa
+Ul. Šime Dešpalja
+Ul. Slave Raškaj
+Ul. Slavka Kolara
+Ul. Špire Brusine
+Ul. Štefana Števika
+Ul. Stjepana Čemera
+Ul. Stjepana Štrosa
+Ul. Šubića Bribirskih
+Ul. Šubićeva
+Ul. Sutlanske doline
+Ul. sv. Ambroza
+Ul. sv. Ane
+Ul. sv. Donata
+Ul. sv. Florijana
+Ul. sv. Ivana
+Ul. sv. Jerolima
+Ul. sv. Josipa radnika
+Ul. sv. Katarine
+Ul. sv. Leopolda Mandića
+Ul. sv. Martina
+Ul. sv. Mihovila
+Ul. sv. N. Tavelića
+Ul. sv. Nediljice
+Ul. sv. Roka
+Ul. svete Katarine
+Ul. Svete Marije
+Ul. svete Stošije
+Ul. svetog Ivana
+Ul. svetog Jeronima
+Ul. Teodora Pejačevića
+Ul. Tina Ujevića
+Ul. Trogirska
+Ul. V - gornji muli
+Ul. Valtera Zubčića
+Ul. Vaska Lipovca
+Ul. Velike Kapele
+Ul. VI - strane
+Ul. Vidove gore
+Ul. VII - zap. obala
+Ul. VII domobranske
+Ul. Vinogradska I
+Ul. Vinogradska II
+Ul. Viškog skupa
+Ul. Vjekoslava Klaića
+Ul. Vjenceslava Novaka
+Ul. Vlahe Bukovca
+Ul. Zekana
+Ul. Zlatka Balokovića
+Ul. Zrinskih i Frankopana
+Ul. Zrinsko-Frankopanska
+Ul. žrtava Domov. rata
+Ul. Žrtava fašizma
+Ul. Župana Godečaja
