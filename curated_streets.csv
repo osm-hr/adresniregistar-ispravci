@@ -1,4 +1,4 @@
-rgz_name,name,name:rs,name:it,name:hu,loc_name,name:etymology:wikidata
+rgz_name,name,name:rs,name:it,name:hu,loc_name,name:etymology:wikidata,comment
 1. maja,Ulica prvog maja,,,Május 1. utca,,Q47499
 43. istarske divizije,Ulica 43. istarske divizije,,Via della 43-esima Divisione Istriana,,,Q3445186
 73. samostalne bojne,Ulica 73. samostalne bojne,,,,,
@@ -2787,7 +2787,7 @@ Težačka,Težačka ulica,,,,,
 Dragutina Domjanića,Ulica Dragutina Domjanića,,,,,
 M. Gupca,Ulica Matije Gupca,,,,,
 Slave Raškaj,Ulica Slave Raškaj,,,,,
-Ulica Glavna cesta,Glavna cesta,,,,,
+Ulica Glavna cesta,Glavna cesta,,,,,,https://c.osm.org/t/137215/21
 Vinogradarska,Vinogradarska ulica,,,,,
 Zrmanjska,Zrmanjska ulica,,,,,
 Ulica Frankopanska,Frankopanska ulica,,,,,
@@ -2801,7 +2801,6 @@ Radeki-Polje,Radeki Polje,,,,,
 Novačića Milana,Ulica Milana Novačića,,,,,
 Ivane Brlić-Mažuranić,Ulica Ivane Brlić Mažuranić,,,,,
 Bjelovarska,Bjelovarska ulica,,,,,
-Ulica Glavna cesta,Glavna cesta,,,,,
 1. istarske čete,Ulica 1. istarske čete,,,,,
 1. gardijske brigade,Ulica 1. gardijske brigade,,,,,
 1. svibnja,Ulica 1. svibnja,,,,,
