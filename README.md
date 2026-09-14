@@ -24,6 +24,7 @@ Kod ispravljanja imena koristila su se slijedeća pravila:
 2. brisanje crtice kod nadimaka, ako imamo `Ulica Marije Jurić - Zagorke` onda brišemo crticu i imamo `Ulica Marije Jurić Zagorke`
 3. dodavanje crtica ako je nešto spojeno prezime, recimo `Ulica Ivane Brlić Mažuranić` pretvaramo u `Ulica Ivane Brlić-Mažuranić`
 4. dodajemo točku na redne brojeve, recimo `Ulica kralja Petra Krešimira IV` pretvaramo u `Ulica kralja Petra Krešimira IV.`
+5. popravljanje redoslijeda riječi, recimo `Ulica Trajektna` prepravljamo u `Trajektna ulica`
 
 ## name:etymology:wikidata
 Dodajemo wikidata item od nečega što je direktan povod za ime ulice. Ako se ulica zove `Ulica kraljice Jelene` onda dodajemo `Q1283638`. Ali ako se ulica zove `Ulica staro selo` onda nećemo dodati wikidata item za "starost" ili "selo" nego bi trebali naći po kojem je to starom selu nazvana ulica, i onda dodati wikidata item od tog starog sela. Često nećemo imati wikidata item za to, pa treba ostaviti prazno.
