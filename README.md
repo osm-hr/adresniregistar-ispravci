@@ -26,7 +26,7 @@ Kod ispravljanja imena koristila su se slijedeća pravila:
   *  `dr.` u `doktor`,
   *  `pl.` u `plemeniti`,
   *  `ul.` u `ulica`,
-  *  `kard` u `kardinala`
+  *  `kard.` u `kardinala`
   *  i druge   
 3. brisanje crtice kod nadimaka, ako imamo `Ulica Marije Jurić - Zagorke` onda brišemo crticu i imamo `Ulica Marije Jurić Zagorke`
 4. dodavanje crtica ako je nešto spojeno prezime, recimo `Ulica Ivane Brlić Mažuranić` pretvaramo u `Ulica Ivane Brlić-Mažuranić`
