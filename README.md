@@ -8,6 +8,7 @@ Ovo je datoteka koja na imena ulica stavlja ispravke. Jedno ime ulice potencijal
 
 * rgz_name - službeno ime ulice u DGU
 * name - ispravljeno ime ulice
+* alt_name - alternativno ime ulice, recimo, ime `Ulica Ljudevita Gaja` ima alternativu `Gajeva ulica`
 * name:rs - srpsko ispravljeno ime ulice, ako je naselje dvojezično
 * name:it - talijansko ispravljeno ime ulice, ako je naselje dvojezično
 * name:hu - mađarsko ispravljeno ime ulice, ako je naselje dvojezično
@@ -21,11 +22,17 @@ Kod ispravljanja imena koristila su se slijedeća pravila:
 1. dodavanje riječi "ulica" ako je izostavljeno, što znači:
   * ako imamo ime u genitivu, recimo `Vesne Parun`, onda dodajemo `Ulica Vesne Parun`
   * ako imamo pridjev tipa `Vinkovačka`, onda dodajemo `Vinkovačka ulica`
-2. brisanje crtice kod nadimaka, ako imamo `Ulica Marije Jurić - Zagorke` onda brišemo crticu i imamo `Ulica Marije Jurić Zagorke`
-3. dodavanje crtica ako je nešto spojeno prezime, recimo `Ulica Ivane Brlić Mažuranić` pretvaramo u `Ulica Ivane Brlić-Mažuranić`
-4. dodajemo točku na redne brojeve, recimo `Ulica kralja Petra Krešimira IV` pretvaramo u `Ulica kralja Petra Krešimira IV.`
-5. popravljanje redoslijeda riječi, recimo `Ulica Trajektna` prepravljamo u `Trajektna ulica`
-6. Popravak viška riječi `Ulica`, recimo izbačena u imenu `Ulica Put Cetine`
+2. Produljivanje kratica,
+  *  `dr.` u `doktor`,
+  *  `pl.` u `plemeniti`,
+  *  `ul.` u `ulica`,
+  *  `kard` u `kardinala`
+  *  i druge   
+3. brisanje crtice kod nadimaka, ako imamo `Ulica Marije Jurić - Zagorke` onda brišemo crticu i imamo `Ulica Marije Jurić Zagorke`
+4. dodavanje crtica ako je nešto spojeno prezime, recimo `Ulica Ivane Brlić Mažuranić` pretvaramo u `Ulica Ivane Brlić-Mažuranić`
+5. dodajemo točku na redne brojeve, recimo `Ulica kralja Petra Krešimira IV` pretvaramo u `Ulica kralja Petra Krešimira IV.`
+6. popravljanje redoslijeda riječi, recimo `Ulica Trajektna` prepravljamo u `Trajektna ulica`
+7. Popravak viška riječi `Ulica`, recimo izbačena u imenu `Ulica Put Cetine`
 
 ## name:etymology:wikidata
 Dodajemo wikidata item od nečega što je direktan povod za ime ulice. Ako se ulica zove `Ulica kraljice Jelene` onda dodajemo `Q1283638`. Ali ako se ulica zove `Ulica staro selo` onda nećemo dodati wikidata item za "starost" ili "selo" nego bi trebali naći po kojem je to starom selu nazvana ulica, i onda dodati wikidata item od tog starog sela. Često nećemo imati wikidata item za to, pa treba ostaviti prazno.
