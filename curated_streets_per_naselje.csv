@@ -1,4 +1,4 @@
-ulica_id,rgz_name,name,comment
-2038275,Tomislavova,Ulica kralja Tomislava,
-2038293,Resičina,Ulica fra Andrije Resice,
-59200
+ulica_id,rgz_name,name,alt_name,comment
+2038275,Tomislavova,Ulica kralja Tomislava,Tomislavova ulica,
+2038293,Resičina,Ulica fra Andrije Resice,Resičina ulica,
+2056499,Krležina,Ulica Miroslava Krleže,Krležina ulica,https://www.mapillary.com/app/?pKey=745050936176473&focus=photo
